@@ -12,7 +12,6 @@ function App() {
   };
 
   const containerBgStyle = {
-    background: 'url("https://bilkentceviritoplulugu.files.wordpress.com/2016/08/12924433_1024950660875708_7188096507868407465_n.jpg")',
     backgroundRepeat: 'repeat', // Makes the background image repeat
   };
 
